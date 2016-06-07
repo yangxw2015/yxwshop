@@ -1,0 +1,26 @@
+{
+  "name": "shop",
+  "version": "1.0.1",
+  "description": "这是一个网上商城",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangxw2015/shop.git"
+  },
+  "keywords": [
+    "shop",
+    "node"
+  ],
+  "author": "yxw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangxw2015/shop/issues"
+  },
+  "homepage": "https://github.com/yangxw2015/shop#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}

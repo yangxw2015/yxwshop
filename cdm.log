@@ -1,0 +1,5 @@
+d:
+cd shop
+bower install bootstrap
+bower install angular angular-route --save
+doskey /history >>cdm.log

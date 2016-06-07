@@ -1,0 +1,27 @@
+{
+  "name": "yxwshop",
+  "description": "这是一个网上商城",
+  "main": "index.js",
+  "authors": [
+    "yxw"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "shop",
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6",
+    "angular-route": "^1.5.6",
+    "bootstrap": "^3.3.6"
+  }
+}
